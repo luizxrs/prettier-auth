@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "appolo": "^7.0.5",
+    "clsx": "^2.0.0",
+    "firebase": "^10.7.1",
+    "framer-motion": "^10.16.16",
+    "graphql": "^16.8.1",
+    "jotai": "^2.6.0",
+    "libphonenumber-js": "^1.10.52",
+    "nookies": "^2.5.2",
+    "react-hook-form": "^7.49.2",
+    "react-icons": "^4.12.0",
+    "tailwind-merge": "^2.2.0",
+    "zod": "^3.22.4"
+  }
+}
